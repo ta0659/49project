@@ -1,0 +1,17 @@
+.header{
+    background-color:black;
+    display:flex;
+    justify-content: space-between;
+}
+
+.grid{
+    border: solid;
+    margin-right: 1270px;
+}
+
+h1{
+    color:red;
+}
+body{
+    background-color: rgb(215, 236, 240);
+}
